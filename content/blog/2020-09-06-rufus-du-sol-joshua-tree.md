@@ -1,6 +1,6 @@
 ---
-title: Rufus Du Sol Live in Joshua Tree
-date: Sunday September 6th, 2020
+title: Falda
+date: 'Sunday September 6th, 2020'
 thumbnail: /images/uploads/desert.jpg
 category: Music
 ---
